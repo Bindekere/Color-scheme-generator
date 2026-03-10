@@ -29,7 +29,7 @@ No dependencies or build step needed — just open `index.html`.
 
 ## Live Demo
 
-> Coming soon — deploying to Netlify
+🔗 [mysimplecolorschemegenerator.netlify.app](https://mysimplecolorschemegenerator.netlify.app/)
 
 ---
 
